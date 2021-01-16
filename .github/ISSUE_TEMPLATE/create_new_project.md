@@ -3,6 +3,7 @@ name: Create New Project
 about: Use to create new project tracking issues
 title: '[Project] '
 labels: 'Type: PTI'
+projects: 'Product Board'
 ---
 
 ## Overview
@@ -36,8 +37,8 @@ _The numerical estimate, in weeks, that this project will require before it's co
 _This section contains a piecewise break-down of the project including estimates for each stage of the project, the milestones, and the expected completion work amount for each milestone. This list may start initially with 'TBDs' but it should be filled in as estimates are known, and before those tasks are started. Estimates are in weeks or days._
 
 **Overall:** TBD
-- **Product design:** TBD
-- **Technical design:** TBD
+- **Product design** (link): TBD
+- **Technical design** (link): TBD
 - **Implementation**
   - **Milestone 1** (link): TBD
   - ...
